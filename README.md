@@ -1,4 +1,4 @@
-# BDA594-TimothyBoyd
-# Timothy Boyd
-# https://sdsu.instructure.com/courses/141078
-# Big data consists of data that rewires certain programs or software to visualize and analyze. It is based on human centred data.
+# BDA594
+# 1. Timothy Boyd
+# 2. [https://sdsu.instructure.com/courses/141078](https://sdsu.instructure.com/courses/186022)
+# 3. Big data consists of data that requires specific software beyond the conventional software to handle its volume, veracity, velocity, and variety.
